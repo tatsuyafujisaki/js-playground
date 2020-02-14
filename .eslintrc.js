@@ -19,6 +19,7 @@ module.exports = {
     }
   },
   rules: {
+    'func-names': 'as-needed', // allows anonymous functions
     'no-console': 'off' // allows console.log()
   }
 };
