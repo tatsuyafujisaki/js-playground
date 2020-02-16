@@ -19,7 +19,7 @@ module.exports = {
     }
   },
   rules: {
-    'func-names': 'as-needed', // allows anonymous functions
+    'func-names': 'off', // allows anonymous functions
     'no-console': 'off' // allows console.log()
   }
 };
