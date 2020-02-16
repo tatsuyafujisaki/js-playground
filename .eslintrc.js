@@ -20,6 +20,7 @@ module.exports = {
   },
   rules: {
     'func-names': 'off', // allows anonymous functions
+    'no-bitwise': 'off', // allows bitwise operators
     'no-console': 'off' // allows console.log()
   }
 };
