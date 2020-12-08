@@ -19,8 +19,8 @@ module.exports = {
     }
   },
   rules: {
-    'func-names': 'off', // allows anonymous functions
-    'no-bitwise': 'off', // allows bitwise operators
-    'no-console': 'off' // allows console.log()
+    'func-names': 'off', // enables anonymous functions
+    'no-bitwise': 'off', // enables bitwise operators
+    'no-console': 'off' // enables console.log()
   }
 };
